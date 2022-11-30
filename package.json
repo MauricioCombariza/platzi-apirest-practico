@@ -1,0 +1,19 @@
+{
+  "name": "platzi-apirest-practico",
+  "version": "1.0.0",
+  "description": "Curso práctico de consumo de ApiRest con java script",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioCombariza/platzi-apirest-practico.git"
+  },
+  "author": "@mauriciocombariza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauricioCombariza/platzi-apirest-practico/issues"
+  },
+  "homepage": "https://github.com/MauricioCombariza/platzi-apirest-practico#readme"
+}
