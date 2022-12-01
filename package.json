@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MauricioCombariza/platzi-apirest-practico/issues"
   },
-  "homepage": "https://github.com/MauricioCombariza/platzi-apirest-practico#readme"
+  "homepage": "https://github.com/MauricioCombariza/platzi-apirest-practico#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
 }
